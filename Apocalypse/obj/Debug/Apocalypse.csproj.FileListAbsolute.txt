@@ -1,0 +1,13 @@
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\bin\Debug\Apocalypse.exe.config
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\bin\Debug\Apocalypse.exe
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\bin\Debug\Apocalypse.pdb
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\obj\Debug\Apocalypse.csproj.AssemblyReference.cache
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\obj\Debug\Apocalypse.csproj.SuggestedBindingRedirects.cache
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\obj\Debug\Apocalypse.csproj.CoreCompileInputs.cache
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\obj\Debug\Apocalypse.exe
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\obj\Debug\Apocalypse.pdb
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\bin\Debug\Humanizer.dll
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\bin\Debug\Humanizer.xml
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\obj\Debug\Apocalypse.csproj.CopyComplete
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\bin\Debug\Figgle.dll
+C:\Users\2230827\Documents\Code\Prog2\monlaboratoire6\ChatEtChien\Apocalypse\bin\Debug\Figgle.xml
